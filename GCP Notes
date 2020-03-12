@@ -1,0 +1,8 @@
+# cloud
+Repository for cloud learning 
+
+
+
+Command to change the permissions of a google bucket 
+
+gsutil acl ch -u allUsers:R gs://$DEVSHELL_PROJECT_ID/my-excellent-blog.png
